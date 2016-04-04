@@ -1,4 +1,4 @@
-karmas-a-buton
+karmas-a-button
 ==============
 
 Easily vote on every post or comment on your current page of Reddit or Imgur with one click.
